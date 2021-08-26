@@ -31,7 +31,7 @@ If you want to play around with this project you need to keep in mind several th
 
 Going from this
 
-    ```
+```csharp
     using System;
     namespace ConsoleApp
     {
@@ -43,14 +43,14 @@ Going from this
             }
         }
     }
-    ```
+```
 
 
 Into this  
 
-    ```csharp
-        Console.WriteLine("Hello, World!");
-    ```
+```csharp
+    Console.WriteLine("Hello, World!");
+```
 
 3. MinimalAPI  
 
