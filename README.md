@@ -32,24 +32,24 @@ If you want to play around with this project you need to keep in mind several th
 Going from this
 
 ```csharp
-    using System;
-    namespace ConsoleApp
+using System;
+namespace ConsoleApp
+{
+    class Program
     {
-        class Program
+        static void Main(string[] args)
         {
-            static void Main(string[] args)
-            {
-                Console.WriteLine("Hello World!");
-            }
+            Console.WriteLine("Hello World!");
         }
     }
+}
 ```
 
 
 Into this  
 
 ```csharp
-    Console.WriteLine("Hello, World!");
+Console.WriteLine("Hello, World!");
 ```
 
 3. MinimalAPI  
