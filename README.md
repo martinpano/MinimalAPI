@@ -1,11 +1,11 @@
 # MinimalAPI
 A minimal api demo project for the purpose of a knowledge sharing session
 
-### Overview  
+### Overview 🧐
 
 Demo project which serves for demonstration of the minimal api concepts in .NET 6 preview 7. There are two folders created in this repo, both of them containing one console application and one web application. The difference is in the version of the .NET framework. The 3.x folder uses 3.1.412 version of .NET and the 6.x folder uses 6.0.100-preview.7.21379.14. The idea is to compare the difference between an empty web project created with 3.x .net version and 6.x .net version. 
 
-### Setup for test  
+### Setup for test  ⚙️
 
 If you want to play around with this project you need to keep in mind several things before run of the project (minimal API) in the 6.x folder.
 
@@ -15,7 +15,7 @@ If you want to play around with this project you need to keep in mind several th
 * Use dotnet cli commands to run/build the project
 
 
-## YAKSS
+## YAKSS 📚
 
 1. .NET evolution  
 
