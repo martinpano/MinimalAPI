@@ -31,7 +31,7 @@ If you want to play around with this project you need to keep in mind several th
 
 Going from this
 
-    ```csharp
+    ```
     using System;
     namespace ConsoleApp
     {
