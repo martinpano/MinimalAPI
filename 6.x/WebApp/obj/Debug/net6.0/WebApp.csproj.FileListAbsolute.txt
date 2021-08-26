@@ -1,0 +1,50 @@
+C:\Users\MartinPanovski\Desktop\minimalApi\MinimalApi - YAKSS\6.x\WebApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\MartinPanovski\Desktop\minimalApi\MinimalApi - YAKSS\6.x\WebApp\bin\Debug\net6.0\appsettings.json
+C:\Users\MartinPanovski\Desktop\minimalApi\MinimalApi - YAKSS\6.x\WebApp\bin\Debug\net6.0\WebApp.staticwebassets.json
+C:\Users\MartinPanovski\Desktop\minimalApi\MinimalApi - YAKSS\6.x\WebApp\bin\Debug\net6.0\WebApp.staticwebassets.runtime.json
+C:\Users\MartinPanovski\Desktop\minimalApi\MinimalApi - YAKSS\6.x\WebApp\bin\Debug\net6.0\WebApp.StaticWebAssets.xml
+C:\Users\MartinPanovski\Desktop\minimalApi\MinimalApi - YAKSS\6.x\WebApp\bin\Debug\net6.0\WebApp.exe
+C:\Users\MartinPanovski\Desktop\minimalApi\MinimalApi - YAKSS\6.x\WebApp\bin\Debug\net6.0\WebApp.deps.json
+C:\Users\MartinPanovski\Desktop\minimalApi\MinimalApi - YAKSS\6.x\WebApp\bin\Debug\net6.0\WebApp.runtimeconfig.json
+C:\Users\MartinPanovski\Desktop\minimalApi\MinimalApi - YAKSS\6.x\WebApp\bin\Debug\net6.0\WebApp.dll
+C:\Users\MartinPanovski\Desktop\minimalApi\MinimalApi - YAKSS\6.x\WebApp\bin\Debug\net6.0\WebApp.pdb
+C:\Users\MartinPanovski\Desktop\minimalApi\MinimalApi - YAKSS\6.x\WebApp\obj\Debug\net6.0\WebApp.csproj.AssemblyReference.cache
+C:\Users\MartinPanovski\Desktop\minimalApi\MinimalApi - YAKSS\6.x\WebApp\obj\Debug\net6.0\WebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MartinPanovski\Desktop\minimalApi\MinimalApi - YAKSS\6.x\WebApp\obj\Debug\net6.0\WebApp.AssemblyInfoInputs.cache
+C:\Users\MartinPanovski\Desktop\minimalApi\MinimalApi - YAKSS\6.x\WebApp\obj\Debug\net6.0\WebApp.AssemblyInfo.cs
+C:\Users\MartinPanovski\Desktop\minimalApi\MinimalApi - YAKSS\6.x\WebApp\obj\Debug\net6.0\WebApp.ImplicitNamespaceImports.cs
+C:\Users\MartinPanovski\Desktop\minimalApi\MinimalApi - YAKSS\6.x\WebApp\obj\Debug\net6.0\WebApp.csproj.CoreCompileInputs.cache
+C:\Users\MartinPanovski\Desktop\minimalApi\MinimalApi - YAKSS\6.x\WebApp\obj\Debug\net6.0\WebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MartinPanovski\Desktop\minimalApi\MinimalApi - YAKSS\6.x\WebApp\obj\Debug\net6.0\WebApp.StaticWebAssets.xml
+C:\Users\MartinPanovski\Desktop\minimalApi\MinimalApi - YAKSS\6.x\WebApp\obj\Debug\net6.0\StaticWebAssets.build.json
+C:\Users\MartinPanovski\Desktop\minimalApi\MinimalApi - YAKSS\6.x\WebApp\obj\Debug\net6.0\scopedcss\bundle\WebApp.styles.css
+C:\Users\MartinPanovski\Desktop\minimalApi\MinimalApi - YAKSS\6.x\WebApp\obj\Debug\net6.0\WebApp.dll
+C:\Users\MartinPanovski\Desktop\minimalApi\MinimalApi - YAKSS\6.x\WebApp\obj\Debug\net6.0\refint\WebApp.dll
+C:\Users\MartinPanovski\Desktop\minimalApi\MinimalApi - YAKSS\6.x\WebApp\obj\Debug\net6.0\WebApp.pdb
+C:\Users\MartinPanovski\Desktop\minimalApi\MinimalApi - YAKSS\6.x\WebApp\obj\Debug\net6.0\WebApp.genruntimeconfig.cache
+C:\Users\MartinPanovski\Desktop\minimalApi\MinimalApi - YAKSS\6.x\WebApp\obj\Debug\net6.0\ref\WebApp.dll
+C:\Users\MartinPanovski\Desktop\minimalApi\MinimalAPI\6.x\WebApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\MartinPanovski\Desktop\minimalApi\MinimalAPI\6.x\WebApp\bin\Debug\net6.0\appsettings.json
+C:\Users\MartinPanovski\Desktop\minimalApi\MinimalAPI\6.x\WebApp\bin\Debug\net6.0\WebApp.staticwebassets.json
+C:\Users\MartinPanovski\Desktop\minimalApi\MinimalAPI\6.x\WebApp\bin\Debug\net6.0\WebApp.staticwebassets.runtime.json
+C:\Users\MartinPanovski\Desktop\minimalApi\MinimalAPI\6.x\WebApp\bin\Debug\net6.0\WebApp.StaticWebAssets.xml
+C:\Users\MartinPanovski\Desktop\minimalApi\MinimalAPI\6.x\WebApp\bin\Debug\net6.0\WebApp.exe
+C:\Users\MartinPanovski\Desktop\minimalApi\MinimalAPI\6.x\WebApp\bin\Debug\net6.0\WebApp.deps.json
+C:\Users\MartinPanovski\Desktop\minimalApi\MinimalAPI\6.x\WebApp\bin\Debug\net6.0\WebApp.runtimeconfig.json
+C:\Users\MartinPanovski\Desktop\minimalApi\MinimalAPI\6.x\WebApp\bin\Debug\net6.0\WebApp.dll
+C:\Users\MartinPanovski\Desktop\minimalApi\MinimalAPI\6.x\WebApp\bin\Debug\net6.0\WebApp.pdb
+C:\Users\MartinPanovski\Desktop\minimalApi\MinimalAPI\6.x\WebApp\obj\Debug\net6.0\WebApp.csproj.AssemblyReference.cache
+C:\Users\MartinPanovski\Desktop\minimalApi\MinimalAPI\6.x\WebApp\obj\Debug\net6.0\WebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MartinPanovski\Desktop\minimalApi\MinimalAPI\6.x\WebApp\obj\Debug\net6.0\WebApp.AssemblyInfoInputs.cache
+C:\Users\MartinPanovski\Desktop\minimalApi\MinimalAPI\6.x\WebApp\obj\Debug\net6.0\WebApp.AssemblyInfo.cs
+C:\Users\MartinPanovski\Desktop\minimalApi\MinimalAPI\6.x\WebApp\obj\Debug\net6.0\WebApp.ImplicitNamespaceImports.cs
+C:\Users\MartinPanovski\Desktop\minimalApi\MinimalAPI\6.x\WebApp\obj\Debug\net6.0\WebApp.csproj.CoreCompileInputs.cache
+C:\Users\MartinPanovski\Desktop\minimalApi\MinimalAPI\6.x\WebApp\obj\Debug\net6.0\WebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MartinPanovski\Desktop\minimalApi\MinimalAPI\6.x\WebApp\obj\Debug\net6.0\WebApp.StaticWebAssets.xml
+C:\Users\MartinPanovski\Desktop\minimalApi\MinimalAPI\6.x\WebApp\obj\Debug\net6.0\StaticWebAssets.build.json
+C:\Users\MartinPanovski\Desktop\minimalApi\MinimalAPI\6.x\WebApp\obj\Debug\net6.0\scopedcss\bundle\WebApp.styles.css
+C:\Users\MartinPanovski\Desktop\minimalApi\MinimalAPI\6.x\WebApp\obj\Debug\net6.0\WebApp.dll
+C:\Users\MartinPanovski\Desktop\minimalApi\MinimalAPI\6.x\WebApp\obj\Debug\net6.0\refint\WebApp.dll
+C:\Users\MartinPanovski\Desktop\minimalApi\MinimalAPI\6.x\WebApp\obj\Debug\net6.0\WebApp.pdb
+C:\Users\MartinPanovski\Desktop\minimalApi\MinimalAPI\6.x\WebApp\obj\Debug\net6.0\WebApp.genruntimeconfig.cache
+C:\Users\MartinPanovski\Desktop\minimalApi\MinimalAPI\6.x\WebApp\obj\Debug\net6.0\ref\WebApp.dll

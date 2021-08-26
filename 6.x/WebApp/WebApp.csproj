@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+
+    <!-- Starting from the next version, this will be needed 
+         to specify an implicit use of global usings accross the app -->
+         
+    <!-- <ImplicitUsings>enable</ImplicitUsings> -->
+
+  </PropertyGroup>
+
+</Project>
